@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/Clicky-Clicky-game/static/css/main.d1b05096.chunk.css",
+    "main.js": "/Clicky-Clicky-game/static/js/main.948f55ce.chunk.js",
+    "main.js.map": "/Clicky-Clicky-game/static/js/main.948f55ce.chunk.js.map",
+    "runtime-main.js": "/Clicky-Clicky-game/static/js/runtime-main.80d44bf8.js",
+    "runtime-main.js.map": "/Clicky-Clicky-game/static/js/runtime-main.80d44bf8.js.map",
+    "static/js/2.3a234109.chunk.js": "/Clicky-Clicky-game/static/js/2.3a234109.chunk.js",
+    "static/js/2.3a234109.chunk.js.map": "/Clicky-Clicky-game/static/js/2.3a234109.chunk.js.map",
+    "index.html": "/Clicky-Clicky-game/index.html",
+    "precache-manifest.07b0f98cd6d79d6500733d5a017bc775.js": "/Clicky-Clicky-game/precache-manifest.07b0f98cd6d79d6500733d5a017bc775.js",
+    "service-worker.js": "/Clicky-Clicky-game/service-worker.js",
+    "static/css/main.d1b05096.chunk.css.map": "/Clicky-Clicky-game/static/css/main.d1b05096.chunk.css.map",
+    "static/js/2.3a234109.chunk.js.LICENSE": "/Clicky-Clicky-game/static/js/2.3a234109.chunk.js.LICENSE",
+    "static/media/logo.svg": "/Clicky-Clicky-game/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.80d44bf8.js",
+    "static/js/2.3a234109.chunk.js",
+    "static/css/main.d1b05096.chunk.css",
+    "static/js/main.948f55ce.chunk.js"
+  ]
+}
