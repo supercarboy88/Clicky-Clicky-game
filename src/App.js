@@ -38,7 +38,6 @@ class App extends Component {
             });
         }
         else {
-            // success to select a new dog
             const newTeams = this.state.unselectedTeams.filter(item => item.name !== name);
             
             this.setState({ 
